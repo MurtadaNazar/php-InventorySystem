@@ -1,0 +1,16 @@
+**Database Name: inventory_system**
+
+**Admin Login Details**
+
+Username: murtada
+Password: 1234
+
+**Special User Login Details**
+
+Username: ali
+Password: 1234
+
+**User(Employee) Login Details**
+
+Username: noor
+Password: 1234
